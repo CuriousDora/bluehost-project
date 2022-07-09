@@ -18,14 +18,12 @@ body{
   padding-inline: 1rem;
   padding-bottom: 0.1rem;
   padding-top: 0.1rem;
-  padding: 10px;
-  font-size: 40px;
 }
 .logo{
   width: 20%;
 }
 .hero{
-  text-align: left;
+  text-align: center;
   padding: 10px;
   background-color: #ccedff;
 }
