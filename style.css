@@ -1,0 +1,55 @@
+/* default settings */
+body{
+  box-sizing: border-box;
+  height: 100vh;
+  margin: 0px;
+}
+*{
+  margin: 0px;
+}
+
+/* end of default settings */
+
+.nav-bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 9vh;
+  padding-inline: 1rem;
+  padding-bottom: 0.1rem;
+  padding-top: 0.1rem;
+  padding: 10px;
+  font-size: 40px;
+}
+.logo{
+  width: 20%;
+}
+.hero{
+  text-align: left;
+  padding: 10px;
+  background-color: #ccedff;
+}
+.word{
+  padding: 20px;
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-weight: 10px;
+  padding-top: 10px;
+  text-align: left;
+}
+button{
+  padding: 25px;
+  background-color: blue;
+  color: white;
+  font-size: 30px;
+}
+h2{
+  padding: 20px;
+  font-size: 50px;
+  text-align: left;
+  
+}
+p{
+  padding: 20px;
+  text-align: left;
+}
